@@ -4,4 +4,4 @@
 ![](https://github.com/weiyunling/pic/blob/master/2016-2-29/3G.png)
 ![](https://github.com/weiyunling/pic/blob/master/2016-2-29/DSL.png)
 ![](https://github.com/weiyunling/pic/blob/master/2016-2-29/Edge.png)
-![](https://github.com/weiyunling/pic/blob/master/2016-2-29/High%20Latency%20DNS.png)
+Format: ![Alt Text](https://github.com/weiyunling/pic/blob/master/2016-2-29/High%20Latency%20DNS.png)
